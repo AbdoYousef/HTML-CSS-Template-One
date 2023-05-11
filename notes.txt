@@ -1,0 +1,2 @@
+Css:  make normalize css
+how to make minimize for the css file after finish the project
